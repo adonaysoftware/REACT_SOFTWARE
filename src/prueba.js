@@ -9,8 +9,7 @@ export default function MyApp() {
 
   return (
     <div>
-      <h1>EMERSON ADONAY CRUZ OLIVA </h1>
-      <h1> 3ª BTV DESARROLLO DE SOFTWARE </h1>
+      <h1>Counters that update together</h1>
       <MyButton count={count} onClick={handleClick} />
       <MyButton count={count} onClick={handleClick} />
     </div>
